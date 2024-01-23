@@ -1,6 +1,6 @@
 import { BarChart } from 'lucide-react'
-import { Cell, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts'
-import colors, { amber } from 'tailwindcss/colors'
+import { Cell, Pie, PieChart, ResponsiveContainer } from 'recharts'
+import colors from 'tailwindcss/colors'
 
 import {
   Card,
